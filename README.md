@@ -79,7 +79,7 @@ VirtualPy Detector runs multiple checks to identify restricted environments:
 This tool is intended for **educational and research purposes only**. Use it responsibly and in accordance with applicable laws and regulations.
 
 ## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.md) file for more details.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
