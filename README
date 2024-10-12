@@ -83,7 +83,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
-
-## Contact
-For questions or issues, contact:  
-**Your Name** – Paopun2026@gmail.com
