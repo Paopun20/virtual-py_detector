@@ -1,4 +1,4 @@
-# VirtualPy Detector
+# <br/>VirtualPy Detector
 A Python-based detection tool designed to identify virtual machines, sandboxes, and debuggers. VirtualPy Detector leverages multiple techniques, such as hardware checks, driver detection, anti-debugging mechanisms, and sandbox artifact searches, to prevent execution in restricted or emulated environments.
 
 ## Features
