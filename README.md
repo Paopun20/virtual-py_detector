@@ -23,7 +23,7 @@ A Python-based detection tool designed to identify virtual machines, sandboxes, 
 ## Installation
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/VirtualPy-Detector.git
+   git clone https://github.com/Paopun20/virtual-py_detector.git
    cd VirtualPy-Detector
    ```
 
