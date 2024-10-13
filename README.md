@@ -24,7 +24,7 @@ A Python-based detection tool designed to identify virtual machines, sandboxes, 
 1. **Clone the repository:**  
    ```bash
    git clone https://github.com/Paopun20/virtual-py_detector.git
-   cd VirtualPy-Detector
+   cd virtual-py_detector
    ```
 
 2. **Install dependencies:**  
@@ -55,6 +55,7 @@ VirtualPy-Detector/
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Documentation
 └── LICENSE                 # License file (optional)
+└── example.py              # Main example script
 ```
 
 ## How It Works
@@ -74,12 +75,32 @@ VirtualPy Detector runs multiple checks to identify restricted environments:
 ## Supported Platforms
 - **Windows 10+**
 - **Linux**
+- **macOS**
 
-## Disclaimer
-This tool is intended for **educational and research purposes only**. Use it responsibly and in accordance with applicable laws and regulations.
-
-## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE.md) file for more details.
-
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
+# Test Status Checklist
+   ## Virtual Machines (VM)
+   - **Windows**
+     - [ ] Windows 10: Test
+     - [ ] Windows 11: Untest
+   - **Linux**
+     - [ ] Linux: Untest
+   - **MacOS**
+     - [ ] MacOS: Untest
+   
+   ## VirtualBox
+   - **Windows**
+     - [ ] Windows 10: Untest
+     - [ ] Windows 11: Untest
+   - **Linux**
+     - [ ] Linux: Untest
+   - **MacOS**
+     - [ ] MacOS: Untest
+   
+   ## Real Machines
+   - **Windows**
+     - [ ] Windows 10: Test
+     - [ ] Windows 11: Untest
+   - **Linux**
+     - [ ] Linux: Untest
+   - **MacOS**
+     - [ ] MacOS: Untest
